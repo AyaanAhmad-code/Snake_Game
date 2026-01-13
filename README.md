@@ -6,7 +6,7 @@ The game includes score tracking, high score persistence using `localStorage`, a
 ---
 
 ## 🚀 Live Preview
-> _Host this project using GitHub Pages, Netlify, or Vercel to add your live link here_
+> https://ayaanahmad-code.github.io/Snake_Game/
 
 ---
 
@@ -59,13 +59,15 @@ The game includes score tracking, high score persistence using `localStorage`, a
 
 ## 📁 Project Structure
 
+```
 Snake-Game/
 │
-├── index.html # Game layout
-├── style.css # Game styling
-├── script.js # Game logic
-├── favicon.ico # Game icon
-└── README.md # Documentation
+├── index.html 
+├── style.css 
+├── script.js
+├── favicon.ico
+└── README.md 
+```
 
 ---
 
